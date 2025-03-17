@@ -1,0 +1,28 @@
+,ID,Player,IPL Team,Formats
+0,1,Tilak Varma,MI,['T20I']
+1,2,Yashasvi Jaiswal,RR,"['T20I', 'Test']"
+2,3,Dhruv Jurel,RR,"['T20I', 'Test']"
+3,3,SuryaKumar Yadav,MI,['T20I']
+4,3,Shreyas Iyer,PBKS,['ODI']
+5,7,Shubman Gill,GT,"['ODI', 'Test']"
+6,8,Rinku Singh,KKR,['T20I']
+7,9,Rohit Sharma,MI,"['ODI', 'Test']"
+8,10,Virat Kohli,RCB,"['ODI', 'Test']"
+9,11,Rishabh Pant,LSG,"['ODI', 'Test']"
+10,12,KL Rahul,DC,"['ODI', 'Test']"
+11,13,Axar Patel,DC,"['ODI', 'T20I']"
+12,14,Ravindra Jadeja,CSK,"['ODI', 'Test']"
+13,15,Kuldeep Yadav,DC,"['ODI', 'Test', 'T20I']"
+14,16,Varun Chakravarthy,KKR,"['ODI', 'T20I']"
+15,17,Washington Sundar,GT,"['ODI', 'T20I', 'Test']"
+16,17,Nitish Kumar Reddy,SRH,"['T20I', 'Test']"
+17,18,Shivam Dube,CSK,['T20I']
+18,19,Sanju Samson,RR,['T20I']
+19,20,Abhishek Sharma,SRH,['T20I']
+20,20,Hardik Pandya,MI,"['T20I', 'ODI']"
+21,21,Jasprit Bumrah,MI,"['T20I', 'ODI', 'Test']"
+22,22,Mohammad Shami,SRH,"['ODI', 'Test']"
+23,23,Mohammad Siraj,GT,['Test']
+24,24,Harshit Rana,KKR,"['Test', 'ODI', 'T20I']"
+25,25,Akash Deep,LSG,['Test']
+26,26,Prasidh Krishna,GT,['Test']
